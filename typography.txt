@@ -1,0 +1,3085 @@
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: MENU
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 600
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(175, 183, 193)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Import
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(227, 235, 241)
+  Padding: top 8px, right 16px, bottom 8px, left 16px
+------------------------------------------------------------
+Text: FieldSync v0.2.0
+Software Releases
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+Text: FieldSync v0.2.0
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: oklch(0.551 0.027 264.364)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Software Releases
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(175, 183, 193)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 24px, bottom 16px, left 24px
+------------------------------------------------------------
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: lkien@fieldsync.io
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 700
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: 397ca713-06d2-4d1f-8664-3348cad71ed4
+  Font Family: Satoshi, sans-serif
+  Font Size: 12px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 16px (Ratio: 1.33)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Dashboard
+Dashboard
+Surveys
+Site Visits
+
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 24px, right 24px, bottom 24px, left 24px
+------------------------------------------------------------
+Text: Dashboard
+Dashboard
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Dashboard
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 600
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Surveys
+Site Visits
+Sites
+Unallocated Su
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Surveys
+Site Visits
+Sites
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Surveys
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(60, 80, 224)
+  Padding: top 0px, right 16px, bottom 0px, left 16px
+------------------------------------------------------------
+Text: Site Visits
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 16px, bottom 0px, left 16px
+------------------------------------------------------------
+Text: Sites
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 16px, bottom 0px, left 16px
+------------------------------------------------------------
+Text: Unallocated Surveys
+All Surveys
+View
+Sit
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Unallocated Surveys
+All Surveys
+View
+Sit
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Unallocated Surveys
+All Surveys
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Unallocated Surveys
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 16px, bottom 0px, left 16px
+------------------------------------------------------------
+Text: All Surveys
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 16px, bottom 0px, left 16px
+------------------------------------------------------------
+Text: View
+Site Name
+Site Id
+Survey Name
+Creat
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: View
+Site Name
+Site Id
+Survey Name
+Creat
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: View
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 0px, bottom 16px, left 0px
+------------------------------------------------------------
+Text: View
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: View
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: View
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(82, 90, 100)
+  Padding: top 6px, right 8px, bottom 6px, left 8px
+------------------------------------------------------------
+Text: Site Name
+Site Id
+Survey Name
+Created
+Ac
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Site Name
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 8px, bottom 0px, left 8px
+------------------------------------------------------------
+Text: Site Name
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Site Id
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 8px, bottom 0px, left 8px
+------------------------------------------------------------
+Text: Site Id
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Survey Name
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 8px, bottom 0px, left 8px
+------------------------------------------------------------
+Text: Survey Name
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Created
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 8px, bottom 0px, left 8px
+------------------------------------------------------------
+Text: Created
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Actions
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 8px, bottom 0px, left 8px
+------------------------------------------------------------
+Text: Actions
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Brown City
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 11038
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-04-03T21:53:12.164Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Lucy’s Site
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Lucy’s ID
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-04-14T19:30:54.046Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Honda Engine Plant
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-04-30T17:20:15.886Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: ULTRA-MEGA POLE II
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 666666
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: TEST Compound Inspection
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-04-14T19:58:08.562Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: ULTRA-MEGA SST II
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 147896325
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Plumb & Twist [QA]
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-04-14T19:58:08.747Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Honda Engine Plant
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Compound Inspection
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-04-30T17:20:16.150Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Honda Engine Plant
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Structure Climb Inspection
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-04-30T17:20:16.451Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Westmoreland
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 10861
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Compound Inspection
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-05-01T19:52:49.768Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Stratford
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: NH0049
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Plumb & Twist [QA]
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-03-03T17:25:36.551Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: COP Survey-Ericsson
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: 2025-05-12T14:06:11.402Z
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 8px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 16px, bottom 8px, left 8px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 10px, right 10px, bottom 10px, left 10px
+------------------------------------------------------------
+Text: Open menu
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: 0 of 28 row(s) selected.
+Page 1 of 3
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 0px, bottom 16px, left 0px
+------------------------------------------------------------
+Text: 0 of 28 row(s) selected.
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+Text: Page 1 of 3
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 600
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(175, 183, 193)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Import
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(227, 235, 241)
+  Padding: top 8px, right 16px, bottom 8px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: FieldSync v0.2.0
+Software Releases
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: FieldSync v0.2.0
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: oklch(0.551 0.027 264.364)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Software Releases
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(175, 183, 193)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 24px, bottom 16px, left 24px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 700
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: 397ca713-06d2-4d1f-8664-3348cad71ed4
+  Font Family: Satoshi, sans-serif
+  Font Size: 12px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 16px (Ratio: 1.33)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Save (0)
+Mark as Complete
+
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 24px, right 24px, bottom 24px, left 24px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Save (0)
+Mark as Complete
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 24px, bottom 8px, left 24px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Save (0)
+Mark as Complete
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 20px
+  Font Weight: 600
+  Font Style: normal
+  Line Height: 28px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Save (0)
+Mark as Complete
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Save (0)
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(255, 255, 255)
+  Padding: top 8px, right 16px, bottom 8px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Mark as Complete
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(255, 255, 255)
+  Padding: top 8px, right 16px, bottom 8px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Go Back
+Site Name: Brown C
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 24px, right 24px, bottom 24px, left 24px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Go Back
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Go Back
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 600
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Go Back
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(43, 127, 255)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Name: Brown City
+Site Id: 11038
+Sur
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Name: Brown City
+Site Id: 11038
+Sur
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Name: Brown City
+Site Id: 11038
+Sur
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Name: Brown City
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Id: 11038
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Survey Type: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Structure Type: Self-support
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Customer: CTI
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Coordinates:
+43.21577311, -82.98299516
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: 43.21577311, -82.98299516
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: 43.21577311, -82.98299516
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Technician Name: Samuel Fagan
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Technician Email:
+Samuelf@murphytower.co
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Technician Email:
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Samuelf@murphytower.com
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(43, 127, 255)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Images:
+https://test.fieldsync.io/conten
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Images:
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: https://test.fieldsync.io/content/06f64d
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(43, 127, 255)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 16px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.27)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 6px, bottom 0px, left 6px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Map Data
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Map Data
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.27)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Map Data
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 6px, bottom 0px, left 6px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Map Data
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.27)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 6px, bottom 0px, left 6px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+Dashboard
+Sites
+Customers
+Templates
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: MENU
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 600
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(175, 183, 193)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Import
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(227, 235, 241)
+  Padding: top 8px, right 16px, bottom 8px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: FieldSync v0.2.0
+Software Releases
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: FieldSync v0.2.0
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: oklch(0.551 0.027 264.364)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Software Releases
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(175, 183, 193)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 24px, bottom 16px, left 24px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+397ca713-06d2-4d1f-86
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: lkien@fieldsync.io
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 700
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: 397ca713-06d2-4d1f-8664-3348cad71ed4
+  Font Family: Satoshi, sans-serif
+  Font Size: 12px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 16px (Ratio: 1.33)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Save (0)
+Mark as Complete
+
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 24px, right 24px, bottom 24px, left 24px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Save (0)
+Mark as Complete
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 8px, right 24px, bottom 8px, left 24px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Save (0)
+Mark as Complete
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 20px
+  Font Weight: 600
+  Font Style: normal
+  Line Height: 28px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Save (0)
+Mark as Complete
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Save (0)
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(255, 255, 255)
+  Padding: top 8px, right 16px, bottom 8px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Mark as Complete
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(255, 255, 255)
+  Padding: top 8px, right 16px, bottom 8px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Go Back
+Site Name: Brown C
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 24px, right 24px, bottom 24px, left 24px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Go Back
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+Go Back
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 600
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Go Back
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(43, 127, 255)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Name: Brown City
+Site Id: 11038
+Sur
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Name: Brown City
+Site Id: 11038
+Sur
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Name: Brown City
+Site Id: 11038
+Sur
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Name: Brown City
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Site Id: 11038
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Survey Type: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Structure Type: Self-support
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Customer: CTI
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Coordinates:
+43.21577311, -82.98299516
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: 43.21577311, -82.98299516
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: 43.21577311, -82.98299516
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Technician Name: Samuel Fagan
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Technician Email:
+Samuelf@murphytower.co
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Technician Email:
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Samuelf@murphytower.com
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(43, 127, 255)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Images:
+https://test.fieldsync.io/conten
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Images:
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: https://test.fieldsync.io/content/06f64d
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(43, 127, 255)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 16px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+Map Data
+Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.27)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 6px, bottom 0px, left 6px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Keyboard shortcuts
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Map Data
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: normal (Ratio: N/A)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Map Data
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.27)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Map Data
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 6px, bottom 0px, left 6px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Map Data
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 11px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.27)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Terms
+  Font Family: Roboto, Arial, sans-serif
+  Font Size: 10px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 14px (Ratio: 1.4)
+  Color: rgb(0, 0, 0)
+  Padding: top 0px, right 6px, bottom 0px, left 6px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Plumb & Twist
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Legs
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 400
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 16px, right 16px, bottom 16px, left 16px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 14px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 20px (Ratio: 1.43)
+  Color: rgb(100, 116, 139)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
+--- Plumb & Twist Survey Typography ---
+Text: Flags
+  Font Family: Satoshi, sans-serif
+  Font Size: 16px
+  Font Weight: 500
+  Font Style: normal
+  Line Height: 24px (Ratio: 1.5)
+  Color: rgb(118, 126, 136)
+  Padding: top 0px, right 0px, bottom 0px, left 0px
+------------------------------------------------------------
